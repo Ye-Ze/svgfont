@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="783"
+   height="445"
+   viewBox="0 0 783 445"
+   fill="none"
+   version="1.1"
+   id="svg207"
+   sodipodi:docname="Leg-L-Up.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs211" />
+  <sodipodi:namedview
+     id="namedview209"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.5606641"
+     inkscape:cx="391.17962"
+     inkscape:cy="222.66162"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="979"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg207" />
+  <path
+     id="circle197"
+     d="M 551.44141 0 C 543.79028 0.017447219 540.71875 13.165988 544.5 27.259766 C 547.122 37.032566 554.18858 59.233172 563.01758 79.138672 L 405.16406 200.75 C 357.35442 192.39581 229.0006 173.45929 190.5 204.25977 C 143 242.25977 166.00195 300.75977 166.00195 300.75977 L 434.5 300.25977 L 434.49609 300.22266 L 436.65039 300.22461 L 436.6543 300.22852 L 436.6582 300.22461 L 618.43359 300.45312 L 655.10742 306.17188 C 655.10742 306.17188 669.81395 232.40659 674.87695 206.18359 C 679.93995 179.96159 660.06478 185.27638 648.17578 202.85938 C 642.50778 211.24138 630.35961 231.12208 621.09961 250.83008 L 500.79492 226.41211 L 598.77148 113.6543 L 627.11133 89.685547 C 627.11133 89.685547 581 30.259876 564.5 9.2597656 C 559.34375 2.6972375 554.91919 -0.0079305542 551.44141 0 z M 77.5 156.75977 A 77.5 77.5 0 0 0 0 234.25977 A 77.5 77.5 0 0 0 77.5 311.75977 A 77.5 77.5 0 0 0 155 234.25977 A 77.5 77.5 0 0 0 77.5 156.75977 z M 716.88281 198.625 L 716.88281 301 L 778.96875 301 L 778.96875 289.96094 L 730.45312 289.96094 L 730.45312 198.625 L 716.88281 198.625 z "
+     style="fill:#000000" />
+</svg>

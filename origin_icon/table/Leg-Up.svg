@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="628"
+   height="312"
+   viewBox="0 0 628 312"
+   fill="none"
+   version="1.1"
+   id="svg364"
+   sodipodi:docname="Leg-Up.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs368" />
+  <sodipodi:namedview
+     id="namedview366"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.9458599"
+     inkscape:cx="313.74304"
+     inkscape:cy="155.97218"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="979"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg364" />
+  <path
+     id="path358"
+     d="M 551.44141 0 C 543.79005 0.017447219 540.71806 13.165988 544.5 27.259766 C 547.122 37.032566 554.18858 59.233072 563.01758 79.138672 L 405.16602 200.75 C 357.35794 192.39599 229.00111 173.45887 190.5 204.25977 C 143 242.25977 166.00195 300.75977 166.00195 300.75977 L 434.5 300.25977 L 434.1875 297.25586 L 436.6543 300.22852 L 598.77148 113.6543 L 627.11133 89.685547 C 627.11133 89.685547 581 30.259876 564.5 9.2597656 C 559.34375 2.6972375 554.91929 -0.0079305542 551.44141 0 z M 77.5 156.75977 C 34.6979 156.75977 2.4076505e-16 191.45777 0 234.25977 C 0 277.06177 34.6979 311.75977 77.5 311.75977 C 120.302 311.75977 155 277.06177 155 234.25977 C 155 191.45777 120.302 156.75977 77.5 156.75977 z "
+     style="fill:#000000" />
+</svg>

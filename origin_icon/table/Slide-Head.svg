@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="261"
+   viewBox="0 0 500 261"
+   fill="none"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="Slide-Head.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs39" />
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.618"
+     inkscape:cx="250"
+     inkscape:cy="130.44309"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="979"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35" />
+  <path
+     id="path25"
+     d="M 50.119141 0 L 0 28.921875 L 50.119141 57.84375 L 50.119141 37.580078 L 100.23828 37.580078 L 100.23828 20.263672 L 50.119141 20.263672 L 50.119141 0 z M 54.486328 84.785156 C 24.394228 84.785156 1.6927085e-16 109.17667 0 139.26367 C -4.7369516e-15 169.35067 24.394228 193.74023 54.486328 193.74023 C 84.578528 193.74023 108.97266 169.35067 108.97266 139.26367 C 108.97266 109.17667 84.578528 84.785156 54.486328 84.785156 z M 193.7168 106.3125 C 168.43769 106.1242 145.41117 108.99384 133.93164 118.17578 C 100.53664 144.88778 116.70703 186.00781 116.70703 186.00781 L 200.73242 186.00781 L 200.72266 186.10352 L 286.33203 186.10352 L 460.10352 185.46484 L 485.90625 189.35547 C 485.90625 189.35547 495.98903 137.45291 499.45703 119.00391 C 502.92503 100.55391 488.97183 104.35781 480.67383 116.75781 C 476.71883 122.66981 468.24669 136.68627 461.80469 150.57227 L 298.45703 118.26367 L 298.44531 118.17578 C 298.44531 118.17578 241.97692 106.67198 193.7168 106.3125 z M 383.12109 220.68164 L 383.12109 240.49023 C 368.13209 240.55623 338.03459 240.64923 337.55859 240.49023 L 337.55859 260.30078 L 500 260.30078 L 500 240.49023 L 454.4375 240.49023 L 454.4375 220.68164 L 383.12109 220.68164 z "
+     style="fill:#000000" />
+</svg>

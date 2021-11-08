@@ -1,0 +1,95 @@
+@font-face {font-family: "iqor-icon";
+  src: url('iqor-icon.eot?t=1636330444465'); /* IE9*/
+  src: url('iqor-icon.eot?t=1636330444465#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iqor-icon.woff2?t=1636330444465") format("woff2"),
+  url("iqor-icon.woff?t=1636330444465") format("woff"),
+  url('iqor-icon.ttf?t=1636330444465') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iqor-icon.svg?t=1636330444465#iqor-icon') format('svg'); /* iOS 4.1- */
+}
+
+[class^="icn-"], [class*=" icn-"] {
+  font-family: 'iqor-icon' !important;
+  font-size: 16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icn-Back-Down:before { content: "\41"; }
+.icn-Back-Up:before { content: "\42"; }
+.icn-Equipment-Control:before { content: "\43"; }
+.icn-flex:before { content: "\44"; }
+.icn-Kidndy-Down:before { content: "\45"; }
+.icn-Kindey-Up:before { content: "\46"; }
+.icn-Leg-Down:before { content: "\47"; }
+.icn-Leg-L-down:before { content: "\48"; }
+.icn-Leg-L-up:before { content: "\49"; }
+.icn-Leg-R-down:before { content: "\4a"; }
+.icn-Leg-R-up:before { content: "\4b"; }
+.icn-Leg-Up:before { content: "\4c"; }
+.icn-Level:before { content: "\4d"; }
+.icn-Lock:before { content: "\4e"; }
+.icn-Normal-Function:before { content: "\4f"; }
+.icn-Onoff:before { content: "\50"; }
+.icn-Pip-Notext:before { content: "\51"; }
+.icn-PIP:before { content: "\52"; }
+.icn-Quad-1-Notext:before { content: "\53"; }
+.icn-Quad-1:before { content: "\54"; }
+.icn-Quad-2-Notext:before { content: "\55"; }
+.icn-Quad-2:before { content: "\56"; }
+.icn-Reflex:before { content: "\57"; }
+.icn-Rev-trend:before { content: "\58"; }
+.icn-Reverse-Function:before { content: "\59"; }
+.icn-Single-1:before { content: "\5a"; }
+.icn-Single-2:before { content: "\5b"; }
+.icn-Single-3:before { content: "\5c"; }
+.icn-Single-4:before { content: "\5d"; }
+.icn-Slide-Foot:before { content: "\5e"; }
+.icn-Slide-Head:before { content: "\5f"; }
+.icn-Table-Down:before { content: "\60"; }
+.icn-Table-UP:before { content: "\61"; }
+.icn-Tilt-L:before { content: "\62"; }
+.icn-Tilt-R:before { content: "\63"; }
+.icn-Trend:before { content: "\64"; }
+.icn-Unlock:before { content: "\65"; }
+.icn-Video-Control:before { content: "\66"; }
+
+$icn-Back-Down: "\41";
+$icn-Back-Up: "\42";
+$icn-Equipment-Control: "\43";
+$icn-flex: "\44";
+$icn-Kidndy-Down: "\45";
+$icn-Kindey-Up: "\46";
+$icn-Leg-Down: "\47";
+$icn-Leg-L-down: "\48";
+$icn-Leg-L-up: "\49";
+$icn-Leg-R-down: "\4a";
+$icn-Leg-R-up: "\4b";
+$icn-Leg-Up: "\4c";
+$icn-Level: "\4d";
+$icn-Lock: "\4e";
+$icn-Normal-Function: "\4f";
+$icn-Onoff: "\50";
+$icn-Pip-Notext: "\51";
+$icn-PIP: "\52";
+$icn-Quad-1-Notext: "\53";
+$icn-Quad-1: "\54";
+$icn-Quad-2-Notext: "\55";
+$icn-Quad-2: "\56";
+$icn-Reflex: "\57";
+$icn-Rev-trend: "\58";
+$icn-Reverse-Function: "\59";
+$icn-Single-1: "\5a";
+$icn-Single-2: "\5b";
+$icn-Single-3: "\5c";
+$icn-Single-4: "\5d";
+$icn-Slide-Foot: "\5e";
+$icn-Slide-Head: "\5f";
+$icn-Table-Down: "\60";
+$icn-Table-UP: "\61";
+$icn-Tilt-L: "\62";
+$icn-Tilt-R: "\63";
+$icn-Trend: "\64";
+$icn-Unlock: "\65";
+$icn-Video-Control: "\66";
+

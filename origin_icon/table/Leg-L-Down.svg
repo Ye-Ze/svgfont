@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="770"
+   height="419"
+   viewBox="0 0 770 419"
+   fill="none"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="Leg-L-Down.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs55" />
+  <sodipodi:namedview
+     id="namedview53"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7"
+     inkscape:cx="385"
+     inkscape:cy="209.70588"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="979"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg51" />
+  <path
+     id="circle41"
+     d="M 77.5 100.66211 A 77.5 77.5 0 0 0 0 178.16211 A 77.5 77.5 0 0 0 77.5 255.66211 A 77.5 77.5 0 0 0 155 178.16211 A 77.5 77.5 0 0 0 77.5 100.66211 z M 667.88281 131.99805 C 662.06081 132.2468 654.12028 137.97072 648.17578 146.76172 C 642.50778 155.14472 630.35961 175.02537 621.09961 194.73438 L 425.51367 155.03516 L 425.5 154.9043 C 425.5 154.9043 238 110.16211 190.5 148.16211 C 143 186.16211 166.00195 244.66211 166.00195 244.66211 L 384.39062 244.25586 L 588.89648 340.17773 L 619.69531 360.89062 C 619.69531 360.89062 664.25917 300.29459 679.95117 278.68359 C 695.64317 257.07359 675.38887 253.47028 657.17188 264.36328 C 648.48787 269.55628 629.06117 282.42152 612.32617 296.35352 L 542.00781 244.26172 L 618.43359 244.35742 L 655.10742 250.07617 C 655.10742 250.07617 669.81395 176.31089 674.87695 150.08789 C 677.40845 136.97689 673.70481 131.7493 667.88281 131.99805 z M 703.88281 139.69141 L 703.88281 242.06641 L 765.96875 242.06641 L 765.96875 231.02734 L 717.45312 231.02734 L 717.45312 139.69141 L 703.88281 139.69141 z "
+     style="fill:#000000" />
+</svg>

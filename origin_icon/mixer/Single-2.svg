@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400"
+   height="300"
+   viewBox="0 0 400 300"
+   fill="none"
+   version="1.1"
+   id="svg449"
+   sodipodi:docname="Single-2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs453" />
+  <sodipodi:namedview
+     id="namedview451"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3966667"
+     inkscape:cx="200.06954"
+     inkscape:cy="150"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="979"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg449" />
+  <path
+     id="path445"
+     d="M 0.13867188 0.20898438 L 0.13867188 150 L 0.13867188 299.79102 L 200 299.79102 L 399.86133 299.79102 L 399.86133 150 L 399.86133 0.20898438 L 200 0.20898438 L 0.13867188 0.20898438 z M 26.007812 25.660156 L 200.10352 25.763672 L 374.20117 25.869141 L 374.20117 150 L 374.20117 274.13086 L 200.10352 274.23633 L 26.007812 274.33984 L 26.007812 150 L 26.007812 25.660156 z M 200.00781 96.21875 C 189.83581 96.21875 181.70338 99.1245 175.60938 104.9375 C 169.56238 110.7495 166.53906 118.36706 166.53906 127.78906 L 179.54688 127.78906 C 179.54688 121.22706 181.32762 116.11694 184.89062 112.46094 C 188.49963 108.75794 193.53881 106.90625 200.00781 106.90625 C 205.39781 106.90625 209.71131 108.61706 212.94531 112.03906 C 216.18031 115.46106 217.79688 119.8435 217.79688 125.1875 C 217.79688 129.1715 216.78944 133.03906 214.77344 136.78906 C 212.80544 140.49206 209.19531 145.32044 203.94531 151.27344 L 168.50781 190.64844 L 168.50781 200 L 235.58594 200 L 235.58594 189.38281 L 184.1875 189.38281 L 211.60938 159.64062 C 224.45337 145.71863 230.875 133.71863 230.875 123.64062 C 230.875 115.34362 228.10913 108.71119 222.57812 103.74219 C 217.04712 98.726788 209.52281 96.21875 200.00781 96.21875 z "
+     style="fill:#000000" />
+</svg>
