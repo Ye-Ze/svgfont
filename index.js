@@ -14,6 +14,7 @@ svgtofont({
   svgicons2svgfont: {
     fontHeight: 1024,
     normalize: true,
+    centerHorizontally: true,
   },
   website: {
     template: path.join(process.cwd(), "/website/index.ejs"),

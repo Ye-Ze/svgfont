@@ -1,10 +1,10 @@
 @font-face {font-family: "iqor-icon";
-  src: url('iqor-icon.eot?t=1636349317075'); /* IE9*/
-  src: url('iqor-icon.eot?t=1636349317075#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("iqor-icon.woff2?t=1636349317075") format("woff2"),
-  url("iqor-icon.woff?t=1636349317075") format("woff"),
-  url('iqor-icon.ttf?t=1636349317075') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iqor-icon.svg?t=1636349317075#iqor-icon') format('svg'); /* iOS 4.1- */
+  src: url('iqor-icon.eot?t=1636355158956'); /* IE9*/
+  src: url('iqor-icon.eot?t=1636355158956#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iqor-icon.woff2?t=1636355158956") format("woff2"),
+  url("iqor-icon.woff?t=1636355158956") format("woff"),
+  url('iqor-icon.ttf?t=1636355158956') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iqor-icon.svg?t=1636355158956#iqor-icon') format('svg'); /* iOS 4.1- */
 }
 
 [class^="icn-"], [class*=" icn-"] {
@@ -23,7 +23,7 @@
 .icn-camera-cw:before { content: "\46"; }
 .icn-camera-onoff:before { content: "\47"; }
 .icn-color-temp:before { content: "\48"; }
-.icn-dndo:before { content: "\49"; }
+.icn-endo:before { content: "\49"; }
 .icn-equipment-control:before { content: "\4a"; }
 .icn-flex:before { content: "\4b"; }
 .icn-iqor:before { content: "\4c"; }
@@ -66,6 +66,8 @@
 .icn-trend:before { content: "\71"; }
 .icn-unlock:before { content: "\72"; }
 .icn-video-control:before { content: "\73"; }
+.icn-zoom-in:before { content: "\74"; }
+.icn-zoom-out:before { content: "\75"; }
 
 $icn-back-down: "\41";
 $icn-back-up: "\42";
@@ -75,7 +77,7 @@ $icn-camera-ccw: "\45";
 $icn-camera-cw: "\46";
 $icn-camera-onoff: "\47";
 $icn-color-temp: "\48";
-$icn-dndo: "\49";
+$icn-endo: "\49";
 $icn-equipment-control: "\4a";
 $icn-flex: "\4b";
 $icn-iqor: "\4c";
@@ -118,4 +120,6 @@ $icn-tilt-r: "\70";
 $icn-trend: "\71";
 $icn-unlock: "\72";
 $icn-video-control: "\73";
+$icn-zoom-in: "\74";
+$icn-zoom-out: "\75";
 
