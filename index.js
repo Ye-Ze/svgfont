@@ -19,7 +19,7 @@ svgtofont({
     template: path.join(process.cwd(), "/website/index.ejs"),
     title: "IQOR-ICON",
     logo: null,
-    version: "Version 0.1",
+    version: "Version 0.2",
   },
 }).then(() => {
   console.log("svg to font complete.");
