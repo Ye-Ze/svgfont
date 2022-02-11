@@ -9,7 +9,9 @@ svgtofont({
   dict: path.resolve(process.cwd(), "fonts"),
   fontName: "iqor-icon",
   classNamePrefix: "icn",
-  css: true,
+  css: {
+    fontSize: "100%",
+  },
   startUnicode: 0x0041,
   svgicons2svgfont: {
     fontHeight: 1024,
@@ -20,7 +22,7 @@ svgtofont({
     template: path.join(process.cwd(), "/website/index.ejs"),
     title: "IQOR-ICON",
     logo: null,
-    version: "Version 0.2",
+    version: "Version 0.3",
   },
 }).then(() => {
   console.log("svg to font complete.");

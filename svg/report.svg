@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   fill="none"
+   version="1.1"
+   id="svg854"
+   sodipodi:docname="report.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs858" />
+  <sodipodi:namedview
+     id="namedview856"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="1.0847018"
+     inkscape:cx="338.34184"
+     inkscape:cy="194.06255"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="979"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg854" />
+  <path
+     id="path852"
+     d="M 49.56652,9.9999998e-7 V 500 h 380 V 218.66016 l -28,48.49804 V 472 H 277.15832 L 253.42199,491.75 256.82238,472 H 77.56652 V 28.000001 h 324 V 203.1582 l 28,-48.49804 V 9.9999998e-7 Z M 114.56652,68.000001 c -4.4183,0 -8,3.581701 -8,8.000001 v 12 c 0,4.4183 3.5817,8 8,8 h 250 c 4.418,0 8,-3.5817 8,-8 v -12 c 0,-4.4183 -3.582,-8.000001 -8,-8.000001 z m 325.48633,89.826169 c -2.3475,-0.24094 -4.78652,0.96144 -6.10352,3.24219 l -4.38281,7.5918 -0.38672,0.66796 0.38672,0.22266 15.20312,8.77734 4.76758,-8.25976 c 1.756,-3.041 0.85243,-6.84886 -2.01758,-8.50586 l -5.19531,-3 c -0.7175,-0.41425 -1.48898,-0.65602 -2.27148,-0.73633 z M 427.59191,172.08008 401.56652,217.15625 358.35558,292 l -16.16601,28 -73.55078,127.39453 15.58789,9 L 362.97472,320 l 9.5918,-16.61328 29,-50.23047 28,-48.49609 13.61328,-23.58008 -13.61328,-7.85938 z M 114.56652,180 c -4.4183,0 -8,3.582 -8,8 v 12 c 0,4.418 3.5817,8 8,8 h 250 c 4.418,0 8,-3.582 8,-8 v -12 c 0,-4.418 -3.582,-8 -8,-8 z m 0,112 c -4.4183,0 -8,3.582 -8,8 v 12 c 0,4.418 3.5817,8 8,8 h 219.54102 l 16.16601,-28 z m 0,112 c -4.4183,0 -8,3.582 -8,8 v 12 c 0,4.418 3.5817,8 8,8 h 154.87891 l 11.12109,-19.26367 V 412 c 0,-4.418 -3.582,-8 -8,-8 z M 267.04894,450.14648 263.463,472 262.92199,475.29492 266.94738,472 282.63879,459.14648 Z"
+     style="fill:#000000" />
+</svg>
